@@ -1,0 +1,32 @@
+---
+content_type: resource
+description: New image Upload
+draft: false
+file: /courses/18-02sc-multivariable-calculus-fall-2010/999892490b08d54acd37db7c32a1ed92_MIT18_02SC_L27Brds_6.png
+file_size: 15888
+file_type: image/png
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Image Gallery
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
+parent_title: 'Session 80: Flux Through a Surface'
+parent_type: CourseSection
+parent_uid: 076b5dff-cda3-d135-851c-f7a311c53208
+resourcetype: Image
+title: 'Session 80: Flux and the Divergence Theorem 2'
+uid: 99989249-0b08-d54a-cd37-db7c32a1ed92
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---

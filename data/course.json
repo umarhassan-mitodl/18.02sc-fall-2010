@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "90deb412-4e37-9efd-2f36-bab248d3ce4e",
+  "instructors": {
+    "content": [
+      "78742779-553b-1abf-161d-125c1351b2fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "98f7f76b-373d-20b5-c3f8-49016d8ff5a1",
+    "website": "18-02sc-multivariable-calculus-fall-2010"
+  },
+  "course_title": "Multivariable Calculus",
+  "hide_download": true,
+  "course_description": "This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.\n\nThe materials have been organized to support independent study. The website includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n- **Lecture Videos** recorded on the MIT campus\n- **Recitation Videos** with problem-solving tips\n- **Examples** of solutions to sample problems\n- **Problems** for you to solve, with solutions\n- **Exams** with solutions\n- **Interactive Java Applets** (\"Mathlets\") to reinforce key concepts\n\nContent Development\n\nDenis Auroux\u00a0  \nArthur Mattuck\u00a0  \nJeremy Orloff\u00a0  \nJohn Lewis\n\nHeidi Burgiel\u00a0  \nChristine Breiner\u00a0  \nDavid Jordan\u00a0  \nJoel Lewis",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.02SC",
+  "course_image_thumbnail": {
+    "content": "912bb291-e7f3-e8c7-0106-5c6647495376",
+    "website": "18-02sc-multivariable-calculus-fall-2010"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [
+    "Simulations",
+    "Exams with Solutions",
+    "Problem Sets with Solutions",
+    "Lecture Videos",
+    "Lecture Notes"
+  ],
+  "site_uid": "b063d98e-a777-4e9d-943f-b150d3c3a7eb",
+  "site_short_id": "18.02sc-fall-2010",
+  "site_url_path": "courses/18-02sc-multivariable-calculus-fall-2010",
+  "title": "Course Metadata"
+}

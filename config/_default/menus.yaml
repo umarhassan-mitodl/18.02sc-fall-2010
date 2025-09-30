@@ -1,0 +1,127 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: d764fda4-99d7-f9dd-f72d-00c4e7ae00c3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
+  name: 1. Vectors and Matrices
+  pageRef: /pages/1.-vectors-and-matrices/
+  weight: 20
+- identifier: 5ec6e19f-f0b0-98e4-0ec6-5f8bcf898f57
+  name: 'Part A: Vectors, Determinants and Planes'
+  pageRef: /pages/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/
+  parent: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
+  weight: 30
+- identifier: 5785559c-ca75-4f05-db71-1c0de8a26bc4
+  name: 'Part B: Matrices and Systems of Equations'
+  pageRef: /pages/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/
+  parent: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
+  weight: 40
+- identifier: 6f575227-d303-8c11-3827-c5c3b8aaf897
+  name: 'Part C: Parametric Equations for Curves'
+  pageRef: /pages/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/
+  parent: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
+  weight: 50
+- identifier: 7afcc16e-1e66-9d99-4325-103cb87d25c3
+  name: Exam 1
+  pageRef: /pages/1.-vectors-and-matrices/exam-1/
+  parent: 670edba6-2cf4-bbd8-3537-93d6e066fb6c
+  weight: 60
+- identifier: c4eb7979-ba24-3270-46e3-f4d3be8fc654
+  name: ' 2. Partial Derivatives'
+  pageRef: /pages/2.-partial-derivatives/
+  weight: 70
+- identifier: 5ee00816-c5fb-6f61-1e73-27400ba69bef
+  name: 'Part A: Functions of Two Variables, Tangent Approximation and Opt'
+  pageRef: /pages/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/
+  parent: c4eb7979-ba24-3270-46e3-f4d3be8fc654
+  weight: 80
+- identifier: e7048e4b-fd0d-70c8-ef29-4e9d7a9c4a9d
+  name: 'Part B: Chain Rule, Gradient and Directional Derivatives'
+  pageRef: /pages/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/
+  parent: c4eb7979-ba24-3270-46e3-f4d3be8fc654
+  weight: 90
+- identifier: c2b5d174-7730-9fb5-372b-d98ef12fed7d
+  name: 'Part C: Lagrange Multipliers and Constrained Differentials'
+  pageRef: /pages/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/
+  parent: c4eb7979-ba24-3270-46e3-f4d3be8fc654
+  weight: 100
+- identifier: 846864c2-281f-9104-4786-c16555ecc0bf
+  name: Exam 2
+  pageRef: /pages/2.-partial-derivatives/exam-2/
+  parent: c4eb7979-ba24-3270-46e3-f4d3be8fc654
+  weight: 110
+- identifier: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
+  name: 3. Double Integrals and Line Integrals in the Plane
+  pageRef: /pages/3.-double-integrals-and-line-integrals-in-the-plane/
+  weight: 120
+- identifier: 9fa9495f-e35f-5fa9-506b-b63e2d42812f
+  name: 'Part A: Double Integrals'
+  pageRef: /pages/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/
+  parent: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
+  weight: 130
+- identifier: 14558d9f-4e08-d12a-4191-54f3c8100c75
+  name: 'Part B: Vector Fields and Line Integrals'
+  pageRef: /pages/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/
+  parent: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
+  weight: 140
+- identifier: 138f6170-e946-b9b1-22d9-693749cc9860
+  name: 'Part C: Green''s Theorem'
+  pageRef: /pages/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/
+  parent: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
+  weight: 150
+- identifier: e79da896-ae6c-7889-8c52-c2803214c68e
+  name: Exam 3
+  pageRef: /pages/3.-double-integrals-and-line-integrals-in-the-plane/exam-3/
+  parent: e20c7287-dbfb-8ff8-c5a6-75c132a454cc
+  weight: 160
+- identifier: 80a7ff20-650c-3af9-a002-f822edced8a0
+  name: 4. Triple Integrals and Surface Integrals in 3-Space
+  pageRef: /pages/4.-triple-integrals-and-surface-integrals-in-3-space/
+  weight: 170
+- identifier: fae04710-1871-2678-ad1b-80e80246916a
+  name: 'Part A: Triple Integrals'
+  pageRef: /pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/
+  parent: 80a7ff20-650c-3af9-a002-f822edced8a0
+  weight: 180
+- identifier: 2afdabb0-a4ac-ff04-2357-fe33b02c43c3
+  name: 'Part B: Flux and the Divergence Theorem'
+  pageRef: /pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/
+  parent: 80a7ff20-650c-3af9-a002-f822edced8a0
+  weight: 190
+- identifier: 55dd3380-3633-2e8c-fa42-36beffad3294
+  name: 'Part C: Line Integrals and Stokes'' Theorem'
+  pageRef: /pages/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/
+  parent: 80a7ff20-650c-3af9-a002-f822edced8a0
+  weight: 200
+- identifier: 0965bb3a-959c-b82b-ae94-acd89d51076e
+  name: Exam 4
+  pageRef: /pages/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/
+  parent: 80a7ff20-650c-3af9-a002-f822edced8a0
+  weight: 210
+- identifier: e4a6d671-1614-af40-73c1-a224e90fc6b0
+  name: Physics Applications
+  pageRef: /pages/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/
+  parent: 80a7ff20-650c-3af9-a002-f822edced8a0
+  weight: 220
+- identifier: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
+  name: Final Exam
+  pageRef: /pages/final-exam-1/
+  weight: 230
+- identifier: 37347015-2d61-a306-21c6-ebdfe7e34763
+  name: Practice Final Exam
+  pageRef: /pages/final-exam-1/practice-final-exam
+  parent: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
+  weight: 240
+- identifier: d16553d3-0b55-2bab-87a4-60f03b2e6366
+  name: Review
+  pageRef: /pages/final-exam-1/review/
+  parent: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
+  weight: 250
+- identifier: 1f6ae802-8645-a64d-a8af-4f5d3595326f
+  name: Final Exam
+  pageRef: /pages/final-exam-1/final-exam
+  parent: dd6fb5d9-0caa-c5e5-061b-3b20b27d5d15
+  weight: 260
