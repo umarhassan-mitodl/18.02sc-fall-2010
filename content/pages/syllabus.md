@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides an introduction to the course and information
   on course goals, structure, lecture videos, recitation videos, readings, activities,
   exams, textbooks, technical requirements, and joining a study group.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -121,6 +119,6 @@ This OCW Scholar course is self-contained and no textbook is required. If you ha
 Technical Requirements
 ----------------------
 
-This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
+This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with {{% resource_link "fc0e0cca-aa48-4dbb-b42f-28cbeff32a96" "Firefox" %}}, {{% resource_link "c47205ea-54bb-4a28-8c66-5fbcd812cbf5" "Safari" %}} or {{% resource_link "9b2ba177-00f1-4cd6-9ca8-45cef2aa6925" "Chrome" %}}.
 
 « [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 670edba6-2cf4-bbd8-3537-93d6e066fb6c "Next" %}} »
